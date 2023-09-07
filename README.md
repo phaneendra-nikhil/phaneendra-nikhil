@@ -26,7 +26,7 @@
  
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=phaneendra-nikhil&" alt="phaneendra-nikhil" /></p>
-<p>&nbsp;<img  align="left" src="https://github-readme-stats.vercel.app/api?username=phaneendra-nikhil&show_icons=true&locale=en" alt="phaneendra-nikhil" /></p>
+<p><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=phaneendra-nikhil&" alt="phaneendra-nikhil" /></p>
+<p>&nbsp;<img  align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=phaneendra-nikhil&show_icons=true&locale=en" alt="phaneendra-nikhil" /></p>
 
 
