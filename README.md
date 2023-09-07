@@ -1,3 +1,4 @@
+![logo](https://github.com/phaneendra-nikhil/phaneendra-nikhil/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Phaneendra Nikhil</h1>
 <h3 align="center">Junior front-end Developer and DevOps Enthusiast.</h3>
 
