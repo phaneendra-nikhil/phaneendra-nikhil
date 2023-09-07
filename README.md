@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phaneendra-nikhil&label=Profile%20views&color=0e75b6&style=flat" alt="phaneendra-nikhil" /> </p>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"></img>
-- 🌱 I’m currently learning **MERN stack development. **
+- 🌱 I’m currently learning MERN stack development. 
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/phaneendra-nikhil/](https://www.linkedin.com/in/phaneendra-nikhil/)
 
