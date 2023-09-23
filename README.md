@@ -27,6 +27,6 @@
 
 <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=phaneendra-nikhil&" alt="phaneendra-nikhil" /></p> <br>
 <p>&nbsp;<img  align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=phaneendra-nikhil&show_icons=true&locale=en" alt="phaneendra-nikhil" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
 
 
