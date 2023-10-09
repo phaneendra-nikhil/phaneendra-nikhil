@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Tailwind, and React-Native**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything**
 
 
  
