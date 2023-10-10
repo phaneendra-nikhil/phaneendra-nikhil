@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Tailwind, and React-Native**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything**
+ 💬 Ask me about **Node.js, Vite+React, MySQL, MongoDB...**
 
 
  
