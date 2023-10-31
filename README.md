@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Blog app**
+ 🔭 I’m currently working on **Stock Trading Website**
  
  🌱 I’m currently learning **Tailwind, and React-Native**
 
