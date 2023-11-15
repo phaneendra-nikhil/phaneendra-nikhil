@@ -8,16 +8,10 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Stock Trading Website**
- 
- 🌱 I’m currently learning **Tailwind, and React-Native**
-
- 💬 Ask me about **Node.js, Vite+React, MySQL, MongoDB...**
-
-
- 
- </div>
+An enthusiastic web developer with a deep interest in DevOps methodologies. Experienced in designing and developing web applications that seamlessly integrate with DevOps pipelines, ensuring efficient deployment and continuous improvement of digital products. In the dynamic landscape of technology and innovation, I've found my passion and purpose. As a dedicated professional, I have always been captivated by the endless possibilities that the world of IT and development offers. What truly drives me is the intersection of two powerful realms<br/> 
+| DevOps & web development |
+</div>
+<br/>
  
 <div align="center"> 
   <a href="mailto:tallapragadaphaneendranikhil@gmail.com">
@@ -26,8 +20,8 @@
   <a href="https://linkedin.com/in/phaneendra-nikhil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/phaneendra-nikhil" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://phaneendra-nikhil.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
